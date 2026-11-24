@@ -1,0 +1,4 @@
+namespace SnakeWPF
+{
+    public readonly record struct Position(int Row, int Column);
+}
